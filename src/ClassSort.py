@@ -12,3 +12,4 @@ class Sort:
 
 my_list = Sort([5, 3, 4, 1, 2])
 my_list.bubble()
+input("Press Enter to exit...")
