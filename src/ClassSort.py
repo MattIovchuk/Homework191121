@@ -12,4 +12,5 @@ class Sort:
 
 my_list = Sort([5, 3, 4, 1, 2])
 my_list.bubble()
+# print("Initial sort is 5, 3, 4, 1, 2")
 input("Press Enter to exit...")
