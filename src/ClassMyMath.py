@@ -37,7 +37,7 @@ ans.multiplication()
 ans.division()
 ans.pow()
 ans.sqrt()
-# 1) +; 2) *; 3) /; 4) -; 5) pow; 6) sqrt; a, b = 4, 4
+# print("1) +; 2) *; 3) /; 4) -; 5) pow; 6) sqrt; a, b = 4, 4")
 
 
 print()
@@ -46,5 +46,5 @@ print()
 err = MyMath(-1, 0)
 err.division()
 err.sqrt()
-# 1) /; 2) sqrt; a, b = -1 0
+# print("1) /; 2) sqrt; a, b = -1 0")
 input("Press Enter to exit...")
